@@ -1,12 +1,12 @@
-# VS Code Settings
+# My VSCode Settings 
+
+## Hat tip
+
+* Base on [vscode-settings](https://github.com/w3cj/vscode-settings)
 
 # Font
 
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-
-# Extensions
-
-See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd3531d1b654794f65aa434b).
 
 ## Themes/Color
 
@@ -60,27 +60,21 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
     "explorer.openEditors.visible": 0,
     "editor.snippetSuggestions": "top",
     "emmet.showAbbreviationSuggestions": false,
-    "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false,
     "workbench.colorTheme": "Just Black",
     "window.zoomLevel": 1,
     "workbench.iconTheme": "vscode-icons",
     "editor.fontLigatures": true,
-    "terminal.integrated.fontSize": 24,
-    "editor.fontSize": 24,
-    "files.autoSave": "off",
+    "terminal.integrated.fontSize": 18,
+    "editor.fontSize": 18,
     "editor.fontFamily": "Anonymous Pro",
-    "markdown.preview.fontSize": 36,
+    "markdown.preview.fontSize": 18,
     "editor.tabSize": 2,
     "editor.detectIndentation": true,
     "editor.minimap.enabled": false,
     "eslint.enable": true,
     "files.exclude": { "**/.*": true },
     "eslint.validate": [
-        {
-            "language": "vue",
-            "autoFix": true
-        },
         {
             "language": "html",
             "autoFix": true
@@ -104,15 +98,10 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
     "[css]": {
         "editor.defaultFormatter": "HookyQR.beautify"
     },
-    "liveshare.featureSet": "insiders",
-    "[vue]": {
-        "editor.defaultFormatter": "octref.vetur"
-    },
     "diffEditor.ignoreTrimWhitespace": false,
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "liveshare.anonymousGuestApproval": "accept",
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -175,7 +164,10 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
                 }
             }
         ]
-    }
+    },
+    "json.schemas": [
+    
+    ]
 }
 ```
 
