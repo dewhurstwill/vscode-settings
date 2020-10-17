@@ -10,15 +10,8 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
 
 ## Themes/Color
 
-* Current theme:
+* Theme:
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
-* Original theme I use in most videos:
-  * [Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)
-* I used this darker modification of the above theme for a few videos:
-  * [Seti-Black](https://marketplace.visualstudio.com/items?itemName=bobsparadox.seti-black)
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
-  * Matching parenthesis and curly brackets to with colors
 
 ## Workflow
 
@@ -186,145 +179,50 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
 }
 ```
 
-# Keybindings
+# Extensions
 
-```json
-[
-  {
-    "key": "cmd+1",
-    "command": "workbench.action.openEditorAtIndex1"
-  },
-  {
-    "key": "ctrl+1",
-    "command": "-workbench.action.openEditorAtIndex1"
-  },
-  {
-    "key": "cmd+2",
-    "command": "workbench.action.openEditorAtIndex2"
-  },
-  {
-    "key": "ctrl+2",
-    "command": "-workbench.action.openEditorAtIndex2"
-  },
-  {
-    "key": "cmd+3",
-    "command": "workbench.action.openEditorAtIndex3"
-  },
-  {
-    "key": "ctrl+3",
-    "command": "-workbench.action.openEditorAtIndex3"
-  },
-  {
-    "key": "cmd+4",
-    "command": "workbench.action.openEditorAtIndex4"
-  },
-  {
-    "key": "ctrl+4",
-    "command": "-workbench.action.openEditorAtIndex4"
-  },
-  {
-    "key": "cmd+5",
-    "command": "workbench.action.openEditorAtIndex5"
-  },
-  {
-    "key": "ctrl+5",
-    "command": "-workbench.action.openEditorAtIndex5"
-  },
-  {
-    "key": "cmd+6",
-    "command": "workbench.action.openEditorAtIndex6"
-  },
-  {
-    "key": "ctrl+6",
-    "command": "-workbench.action.openEditorAtIndex6"
-  },
-  {
-    "key": "cmd+7",
-    "command": "workbench.action.openEditorAtIndex7"
-  },
-  {
-    "key": "ctrl+7",
-    "command": "-workbench.action.openEditorAtIndex7"
-  },
-  {
-    "key": "cmd+8",
-    "command": "workbench.action.openEditorAtIndex8"
-  },
-  {
-    "key": "ctrl+8",
-    "command": "-workbench.action.openEditorAtIndex8"
-  },
-  {
-    "key": "cmd+9",
-    "command": "workbench.action.openEditorAtIndex9"
-  },
-  {
-    "key": "ctrl+9",
-    "command": "-workbench.action.openEditorAtIndex9"
-  },
-  {
-    "key": "ctrl+1",
-    "command": "workbench.action.focusFirstEditorGroup"
-  },
-  {
-    "key": "cmd+1",
-    "command": "-workbench.action.focusFirstEditorGroup"
-  },
-  {
-    "key": "ctrl+3",
-    "command": "workbench.action.focusThirdEditorGroup"
-  },
-  {
-    "key": "cmd+3",
-    "command": "-workbench.action.focusThirdEditorGroup"
-  },
-  {
-    "key": "ctrl+6",
-    "command": "workbench.action.focusSixthEditorGroup"
-  },
-  {
-    "key": "cmd+6",
-    "command": "-workbench.action.focusSixthEditorGroup"
-  },
-  {
-    "key": "ctrl+7",
-    "command": "workbench.action.focusSeventhEditorGroup"
-  },
-  {
-    "key": "cmd+7",
-    "command": "-workbench.action.focusSeventhEditorGroup"
-  },
-  {
-    "key": "ctrl+2",
-    "command": "workbench.action.focusSecondEditorGroup"
-  },
-  {
-    "key": "cmd+2",
-    "command": "-workbench.action.focusSecondEditorGroup"
-  },
-  {
-    "key": "ctrl+4",
-    "command": "workbench.action.focusFourthEditorGroup"
-  },
-  {
-    "key": "cmd+4",
-    "command": "-workbench.action.focusFourthEditorGroup"
-  },
-  {
-    "key": "ctrl+5",
-    "command": "workbench.action.focusFifthEditorGroup"
-  },
-  {
-    "key": "cmd+5",
-    "command": "-workbench.action.focusFifthEditorGroup"
-  },
-  {
-    "key": "ctrl+8",
-    "command": "workbench.action.focusEighthEditorGroup"
-  },
-  {
-    "key": "cmd+8",
-    "command": "-workbench.action.focusEighthEditorGroup"
-  }
-]
+```
+alexcvzz.vscode-sqlite
+andys8.jest-snippets
+apollographql.vscode-apollo
+austincummings.razor-plus
+bobsparadox.seti-black
+BriteSnow.vscode-toggle-quotes
+christian-kohler.npm-intellisense
+christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+fosshaas.fontsize-shortcuts
+ginfuru.ginfuru-onedark-raincoat-theme
+glitch.glitch
+HookyQR.beautify
+JamesBirtles.svelte-vscode
+JCsoftIA.jcsoftia
+joelday.docthis
+johnpapa.vscode-cloak
+ms-azuretools.vscode-docker
+MS-CEINTL.vscode-language-pack-es
+ms-mssql.mssql
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.azure-account
+ms-vsliveshare.vsliveshare
+msjsdiag.debugger-for-chrome
+Nimda.deepdark-material
+Nur.just-black
+octref.vetur
+Orta.vscode-jest
+patbenatar.advanced-new-file
+PKief.material-icon-theme
+ritwickdey.LiveServer
+SmukkeKim.theme-setimonokai
+streetsidesoftware.code-spell-checker
+vscode-icons-team.vscode-icons
+WallabyJs.quokka-vscode
+WallabyJs.wallaby-vscode
+whatwedo.twig
+Zignd.html-css-class-completion
 ```
