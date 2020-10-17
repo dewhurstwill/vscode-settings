@@ -173,6 +173,8 @@
 
 # Extensions
 
+* vscode-extensions.txt
+
 ```
 alexcvzz.vscode-sqlite
 andys8.jest-snippets
@@ -217,4 +219,10 @@ WallabyJs.quokka-vscode
 WallabyJs.wallaby-vscode
 whatwedo.twig
 Zignd.html-css-class-completion
+```
+
+## How to install (OSX && Linux)
+
+```bash
+while read line; do code --install-extension "$line";done < vscode-extensions.txt
 ```
