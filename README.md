@@ -1,19 +1,19 @@
 # My VSCode Settings 
 
-## Hat tip
+## Hat tip 🎩
 
 * Base on [vscode-settings](https://github.com/w3cj/vscode-settings)
 
-# Font
+# Font 🖋
 
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 
-## Themes/Color
+## Themes/Color 🎨
 
 * Theme:
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
 
-## Workflow
+## Workflow 
 
 * [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
   * Adds the ability to create files anywhere in your workspace.
@@ -53,7 +53,7 @@
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   * Collaborative editing, debugging, and more inside VS Code
 
-# Settings
+# Settings 🎚
 
 ```json
 {
@@ -171,7 +171,7 @@
 }
 ```
 
-# Extensions
+# Extensions 
 
 * vscode-extensions.txt
 
@@ -221,7 +221,7 @@ whatwedo.twig
 Zignd.html-css-class-completion
 ```
 
-## How to install (OSX && Linux)
+## How to install (OSX && Linux) 🔧
 
 ```bash
 while read line; do code --install-extension "$line";done < vscode-extensions.txt
