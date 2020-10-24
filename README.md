@@ -227,6 +227,7 @@ Zignd.html-css-class-completion
 
 ```bash
 curl -fsSL -o vscode-extensions.txt https://raw.githubusercontent.com/dewhurstwill/vscode-settings/master/vscode-extensions.txt
+
 while read line; do code --install-extension "$line";done < vscode-extensions.txt
 ```
 
@@ -234,7 +235,9 @@ while read line; do code --install-extension "$line";done < vscode-extensions.tx
 
 ```bash
 git clone https://github.com/dewhurstwill/vscode-settings.git
+
 cd vscode-settings
+
 while read line; do code --install-extension "$line";done < vscode-extensions.txt
 ```
 
