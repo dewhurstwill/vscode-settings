@@ -223,6 +223,23 @@ Zignd.html-css-class-completion
 
 ## How to install (OSX && Linux) 🔧
 
+* Manual install
+
 ```bash
+curl -fsSL -o vscode-extensions.txt https://raw.githubusercontent.com/dewhurstwill/vscode-settings/master/vscode-extensions.txt
 while read line; do code --install-extension "$line";done < vscode-extensions.txt
+```
+
+* Manual install (With git)
+
+```bash
+git clone https://github.com/dewhurstwill/vscode-settings.git
+cd vscode-settings
+while read line; do code --install-extension "$line";done < vscode-extensions.txt
+```
+
+* Live on the edge (1 liner)
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/dewhurstwill/vscode-settings/master/vscode-extensions.txt | while read line; do code --install-extension "$line";done
 ```
