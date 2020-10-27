@@ -171,7 +171,7 @@
 }
 ```
 
-# Homebrew
+# Homebrew 🍺
 
 ## [How I setup a new machine](https://github.com/dewhurstwill/dotfiles/tree/main/setup)
 
