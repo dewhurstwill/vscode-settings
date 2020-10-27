@@ -171,6 +171,10 @@
 }
 ```
 
+# Homebrew
+
+## [How I setup a new machine](https://github.com/dewhurstwill/dotfiles/tree/main/setup)
+
 # Extensions - [vscode-extensions.txt](https://github.com/dewhurstwill/vscode-settings/blob/master/vscode-extensions.txt)
 
 ## How to install (OSX && Linux) 🔧
