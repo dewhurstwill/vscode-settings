@@ -38,6 +38,13 @@ SmukkeKim.theme-setimonokai
 streetsidesoftware.code-spell-checker
 vscode-icons-team.vscode-icons
 WallabyJs.quokka-vscode
-WallabyJs.wallaby-vscode
-whatwedo.twig
+WallabyJs.wallaby-vscodeazureadb2ctools.aadb2cwhatwedo.twig
 Zignd.html-css-class-completion
+hashicorp.terraform
+mindaro.mindaro
+ms-azuretools.vscode-azurefunctions
+ms-vscode-remote.remote-containers
+ms-azure-devops.azure-pipelines
+ms-azuretools.vscode-logicapps
+ms-kubernetes-tools.vscode-aks-tools
+azureadb2ctools.aadb2c
